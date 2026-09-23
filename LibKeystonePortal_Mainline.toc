@@ -5,6 +5,8 @@
 ## Title: Lib: LibKeystonePortal
 ## Notes: A library for handling keystone portals, and transmitting to your party when you cast them.
 ## Author: Numy
+## X-GameType: [Game]
+## X-GameFamily: [Family]
 ## IconTexture: Interface\Addons\LibKeystonePortal\media\icon
 ## Version: @project-version@
 ## X-Licence: Permission is granted to use and redistribute this library in any way you see fit, including but not limited to, embedding it in your own addons.
